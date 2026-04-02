@@ -1,0 +1,12 @@
+supplier_id,supplier_name,supplier_region,product_category,delivery_time_days,defect_rate,shipment_quantity,transport_cost,shipment_date
+1,Bavaria Parts,Germany,Engine,5,0.02,120,1500,10/01/2024
+2,Shanghai Motors,China,Electronics,8,0.05,200,2200,15/01/2024
+3,Delhi Components,India,Interior,6,0.03,150,1800,05/02/2024
+4,Bavaria Parts,Germany,Engine,4,0.01,140,1600,12/02/2024
+5,Shanghai Motors,China,Electronics,9,0.06,220,2400,01/03/2024
+6,Delhi Components,India,Interior,7,0.04,170,1900,18/03/2024
+7,Bavaria Parts,Germany,Engine,5,0.02,160,1700,05/04/2024
+8,Shanghai Motors,China,Electronics,10,0.07,250,2600,20/04/2024
+9,Delhi Components,India,Interior,6,0.03,180,2000,02/05/2024
+10,Bavaria Parts,Germany,Engine,4,0.01,150,1650,18/05/2024
+,,,,,,,,
